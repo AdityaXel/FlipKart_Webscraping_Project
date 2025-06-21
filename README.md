@@ -1,1 +1,1 @@
-# Flipkart_Webscraping_Project
+This project demonstrates how to perform web scraping using Python, specifically using the requests and BeautifulSoup libraries. The goal of the project is to extract data such as product names, prices, descriptions, and reviews of mobile phones under ₹15,000 from Flipkart.
